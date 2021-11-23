@@ -890,19 +890,10 @@ color:red;
   }
 }
 
-/*.resume{
-    height: 40px;
-    width: 150px;
-}
-
-.resume span{
-  height: 40px;
-    width: 150px;
-}*/
 /*--------------------------------------------------------------
 # Credits
 --------------------------------------------------------------*/
-.credits {
+/*.credits {
   position: fixed;
   right: 15px;
   bottom: 15px;
@@ -926,4 +917,4 @@ color:red;
     right: 0;
     transform: translateX(-50%);
   }
-}
+}*/
